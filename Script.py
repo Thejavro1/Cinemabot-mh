@@ -74,27 +74,27 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
-<b>ɴᴏᴛᴇ:</b>
-my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
+#     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
+# <b>ɴᴏᴛᴇ:</b>
+# my features Stay here new features coming soon...  
+#  <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+#  <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
   
- ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
- code> 
+#  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
+#  code> 
   
- ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
+#  ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
   
- ./song - Download any song [<code>example /song vaa vaathi song</code>] 
+#  ./song - Download any song [<code>example /song vaa vaathi song</code>] 
   
- ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
+#  ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
   
- ./tts - <code>This command usage text to voice converter</code> 
+#  ./tts - <code>This command usage text to voice converter</code> 
   
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
+#  ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
 
-./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
+# ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
